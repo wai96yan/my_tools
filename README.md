@@ -7,4 +7,5 @@ Run the scrpit and it will create the zipped version of all files where the scri
 
 #hasher is a tool to generate the HASH value of the files.
 Just copy the the script and paste to your desired path.
-It will genereate the hash code of all files in a newly generated foler named (result_file) which inculde file name : hash code format.
+Run the program and there you go.
+It will genereate the hash code of all files in a newly generated folder named (the_hash_algorithm_you_chosed) which inculde file name : hash code format.
